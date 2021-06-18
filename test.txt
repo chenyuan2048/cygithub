@@ -1,4 +1,0 @@
-test pyu
-
-
-print helloworld
